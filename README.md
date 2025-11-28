@@ -16,7 +16,10 @@ Organizamos os materiais de demonstração nas pastas acima:
 Vídeos mostrando a interface Web utilizada pelos colaboradores para abrir chamados e interagir com a IA via navegador.
 
 ### 📱 2. Demonstração Mobile (`/02-Demonstracao-Mobile`)
-Vídeos do aplicativo Flutter (Android), demonstrando a experiência nativa, notificações e a facilidade de uso em campo.
+
+🎥 **[Clique aqui para assistir ao vídeo de demonstração do App Mobile](./02-Demonstracao-Mobile/Mobile_Demonstracao_1.0.mp4)**
+
+*(O vídeo demonstra a experiência nativa, notificações e a facilidade de uso em campo).*
 
 ### 📄 3. Documentação da API (`/03-Documentacao-Tecnica`)
 Um arquivo PDF detalhado explicando a arquitetura do Backend, incluindo:
